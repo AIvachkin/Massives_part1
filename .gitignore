@@ -1,1 +1,4 @@
+*.iml
 /Massives_part1.iml
+/out/
+/.idea/
